@@ -30,11 +30,11 @@ This version of Array::IntSpan is able to consolidate ranges by
 comparing adjacent values.
 
 %description -l pl
-Array::IntSpan przenosi zyski szybkosciowe Set::IntSpan do tablic.
+Array::IntSpan przenosi zyski szybko¶ciowe Set::IntSpan do tablic.
 Mo¿e byæ u¿ywany do manipulacji rangami, tablicami routingu lub
-w ka¿dej innej sytuacji gdzie s± roz³±czne zakresy liczb ca³kowitych
-które maja przypisane do nich warto¶ci lub objekty. Ta wersja
-Array::IntSpan jest wstanie konsolidowaæ zakresy poprzez porównanie
+w ka¿dej innej sytuacji gdzie s± roz³±czne zakresy liczb ca³kowitych,
+które maj± przypisane do nich warto¶ci lub obiekty. Ta wersja
+Array::IntSpan jest w stanie konsolidowaæ zakresy poprzez porównanie
 s±siaduj±cych warto¶ci.
 
 %prep
