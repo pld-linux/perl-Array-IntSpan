@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Array
-%define	pnam	IntSpan
+%define		pdir	Array
+%define		pnam	IntSpan
 Summary:	Array::IntSpan - a module for handling arrays using IntSpan techniques
 Summary(pl):	Array::IntSpan - modu³ do obs³ugi tablic z u¿yciem techniki IntSpan
 Name:		perl-Array-IntSpan
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Array::IntSpan brings the speed advantages of Set::IntSpan (written by
-Steven McDougall) to arrays.  Uses include manipulating grades,
+Steven McDougall) to arrays. Uses include manipulating grades,
 routing tables, or any other situation where you have mutually
 exclusive ranges of integers that map to given values (or objects).
 This version of Array::IntSpan is able to consolidate ranges by
