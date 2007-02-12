@@ -6,7 +6,7 @@
 %define		pdir	Array
 %define		pnam	IntSpan
 Summary:	Array::IntSpan - a module for handling arrays using IntSpan techniques
-Summary(pl):	Array::IntSpan - modu³ do obs³ugi tablic z u¿yciem techniki IntSpan
+Summary(pl.UTF-8):   Array::IntSpan - moduÅ‚ do obsÅ‚ugi tablic z uÅ¼yciem techniki IntSpan
 Name:		perl-Array-IntSpan
 Version:	2.001
 Release:	1
@@ -29,13 +29,13 @@ exclusive ranges of integers that map to given values (or objects).
 This version of Array::IntSpan is able to consolidate ranges by
 comparing adjacent values.
 
-%description -l pl
-Array::IntSpan przenosi zyski szybko¶ciowe Set::IntSpan do tablic.
-Mo¿e byæ u¿ywany do manipulacji rangami, tablicami routingu lub
-w ka¿dej innej sytuacji gdzie s± roz³±czne zakresy liczb ca³kowitych,
-które maj± przypisane do nich warto¶ci lub obiekty. Ta wersja
-Array::IntSpan jest w stanie konsolidowaæ zakresy poprzez porównanie
-s±siaduj±cych warto¶ci.
+%description -l pl.UTF-8
+Array::IntSpan przenosi zyski szybkoÅ›ciowe Set::IntSpan do tablic.
+MoÅ¼e byÄ‡ uÅ¼ywany do manipulacji rangami, tablicami routingu lub
+w kaÅ¼dej innej sytuacji gdzie sÄ… rozÅ‚Ä…czne zakresy liczb caÅ‚kowitych,
+ktÃ³re majÄ… przypisane do nich wartoÅ›ci lub obiekty. Ta wersja
+Array::IntSpan jest w stanie konsolidowaÄ‡ zakresy poprzez porÃ³wnanie
+sÄ…siadujÄ…cych wartoÅ›ci.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
