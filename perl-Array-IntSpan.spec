@@ -6,7 +6,7 @@
 %define		pdir	Array
 %define		pnam	IntSpan
 Summary:	Array::IntSpan - a module for handling arrays using IntSpan techniques
-Summary(pl.UTF-8):   Array::IntSpan - moduł do obsługi tablic z użyciem techniki IntSpan
+Summary(pl.UTF-8):	Array::IntSpan - moduł do obsługi tablic z użyciem techniki IntSpan
 Name:		perl-Array-IntSpan
 Version:	2.001
 Release:	1
