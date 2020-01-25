@@ -4,7 +4,6 @@
 
 %define		pdir	Array
 %define		pnam	IntSpan
-%include	/usr/lib/rpm/macros.perl
 Summary:	Array::IntSpan - a module for handling arrays using IntSpan techniques
 Summary(pl.UTF-8):	Array::IntSpan - moduł do obsługi tablic z użyciem techniki IntSpan
 Name:		perl-Array-IntSpan
