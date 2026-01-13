@@ -8,7 +8,7 @@ Summary:	Array::IntSpan - a module for handling arrays using IntSpan techniques
 Summary(pl.UTF-8):	Array::IntSpan - moduł do obsługi tablic z użyciem techniki IntSpan
 Name:		perl-Array-IntSpan
 Version:	2.002
-Release:	1
+Release:	2
 # http://www.ActiveState.com/corporate/artistic_license.htm or
 # the license that comes with your perl distribution.
 License:	GPL v1+ or Artistic
